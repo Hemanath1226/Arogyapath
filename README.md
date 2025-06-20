@@ -4,8 +4,6 @@
 This project is a comprehensive healthcare Android application developed using Java and SQLiteDB. It was built by Team Neon for the AndroidXplore Hackathon with the goal of improving accessibility and management of healthcare services through a user-friendly mobile interface. The app was led by Gorle H Y M Venkatadhri Naidu (Team Lead) and collaboratively developed by the team, incorporating features like AI-based symptom explanation, doctor-wise appointment booking, and location-based hospital discovery. The application combines smart functionality with an intuitive design to help users easily access essential health services anytime, anywhere.
 
 ## Features
-## 🌟 Features
-## 🌟 Features
 - **Appointment Booking**: Easily schedule appointments with nearby hospitals and clinics directly from the app.
 - **Online Medicine Purchase**: Conveniently order prescribed medicines from verified pharmacies.
 - **AI Health Chatbot**: A non-diagnostic chatbot that explains symptoms in simple terms and guides users on next steps.
