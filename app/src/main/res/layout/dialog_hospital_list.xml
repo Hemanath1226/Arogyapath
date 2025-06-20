@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/searchHospital"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Search hospitals"
+        android:inputType="text" />
+
+    <ListView
+        android:id="@+id/hospitalList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp" />
+
+    <ImageView
+        android:id="@+id/emptyHospitalImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/empty"
+        android:visibility="gone"
+        android:contentDescription="No hospitals found" />
+</LinearLayout>
